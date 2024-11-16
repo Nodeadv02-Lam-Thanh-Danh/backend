@@ -1,5 +1,3 @@
-# backend
-
 # Database connection (in .env file):
  - user: postgres
  - databasename: homework
