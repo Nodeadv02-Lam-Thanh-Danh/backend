@@ -8,7 +8,7 @@
  - CREATE DATABASE homework
  - psql -U postgres -d homework -f [path to file homework.sql]
 
-# Application port:
+# Application:
  - port: 3000
  - base url: http://localhost:3000/api
 
