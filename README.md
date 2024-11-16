@@ -8,7 +8,7 @@
    
 # How to import database using command line:
  - CREATE DATABASE homework
- - psql -U postgres -d homework -f [path to homework file.sql]
+ - psql -U postgres -d homework -f [path to file homework.sql]
 
 # Application port:
  - port: 3000
